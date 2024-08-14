@@ -1,0 +1,14 @@
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\ref\Task1.dll
