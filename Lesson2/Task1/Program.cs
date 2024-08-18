@@ -1,4 +1,6 @@
-﻿int[] arr = new int[5];
+﻿//Масиивы 
+
+int[] arr = new int[5];
 arr[0] = 5;
 arr[1] = 7;
 arr[2] = 5;
