@@ -12,3 +12,4 @@ C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\n
 C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\Task1.pdb
 C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\Sarkis\OneDrive\Рабочий стол\ProgC\Lesson1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
